@@ -73351,5 +73351,12 @@
     "author": "pixari",
     "description": "Send lines from any note to your own OpenTodo server as tasks that link back to the note, and keep a folder of task files in two-way sync. Works offline and with encrypted accounts. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "opentodoapp/obsidian-opentodo"
+  },
+  {
+    "id": "obsidian-google-tasks-plugin",
+    "name": "Google Tasks Sync",
+    "author": "Dmitrij Rebrov",
+    "description": "Materialize Google Tasks within Obsidian notes.",
+    "repo": "drebroff/obsidian-google-tasks-plugin"
   }
 ]
